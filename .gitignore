@@ -1,0 +1,46 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+
+# Android
+.gradle/
+build/
+*.iml
+local.properties
+.cxx/
+.externalNativeBuild/
+capture.png
+*.apk
+*.bundle
+
+# iOS (for later)
+ios/Pods/
+ios/build/
+*.xcworkspace
+.xccheckout
+derivedData/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
